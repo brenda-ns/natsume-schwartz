@@ -1,7 +1,7 @@
 # Hi there, I'm natsume-schwartz! 👋
 
 <div align="center">
-  <img src="avatar.png" width="450" alt="Anime Character">
+  <img src="https://github.com/natsume-schwartz/images/blob/main/cropped_image.png?raw=true" width="250" style="border-radius: 50%;" alt="natsume-schwartz">
   
   ### 🚀 Software Developer | Digital Artist | Creative Visionary
   *"Building bridges and opening paths through code and creativity."*
