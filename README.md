@@ -1,7 +1,7 @@
-# Hi there, I'm natsume-schwartz! 👋
+# Hi there, I'm Brenda Schwartz! 👋
 
 <div align="center">
-  <img src="https://github.com/natsume-schwartz/images/blob/main/cropped_image.png?raw=true" width="250" style="border-radius: 50%;" alt="natsume-schwartz">
+  <img src="https://github.com/brenda-schwartz/images/blob/main/cropped_image.png?raw=true" width="250" style="border-radius: 50%;" alt="brenda-schwartz">
   
   ### 🚀 Software Developer | Digital Artist | Creative Visionary
   *"Building bridges and opening paths through code and creativity."*
@@ -69,7 +69,7 @@ I enjoy working with specific visual themes that bring projects to life:
 ---
 
 ### ✨ Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natsume-schwartz-2226903b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-schwartz-2226903b8/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/YOUR_LINK)
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=artstation&logoColor=white" />](https://artstation.com/YOUR_LINK)
 
