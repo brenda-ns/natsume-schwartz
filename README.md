@@ -70,7 +70,7 @@ I enjoy working with specific visual themes that bring projects to life:
 
 ### ✨ Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-schwartz-2226903b8/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/YOUR_LINK)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/natsume_schwartz)
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=artstation&logoColor=white" />](https://artstation.com/YOUR_LINK)
 
 <div align="center">
