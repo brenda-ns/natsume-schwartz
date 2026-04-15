@@ -1,7 +1,7 @@
 # Hi there, I'm Brenda!!! 👋
 
 <div align="center">
-  <img src="https://github.com/brenda-schwartz/images/blob/main/cropped_image.png?raw=true" width="250" style="border-radius: 50%;" alt="brenda-schwartz">
+  <img src="https://github.com/brenda-ns/images/blob/main/cropped_image.png?raw=true" width="250" style="border-radius: 50%;" alt="brenda-schwartz">
   
   ### 🚀 Software Developer | Digital Artist | Creative Visionary
   *"Building bridges and opening paths through code and creativity."*
