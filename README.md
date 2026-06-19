@@ -71,7 +71,7 @@ I enjoy working with specific visual themes that bring projects to life:
 ### ✨ Let's Connect
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" />](https://instagram.com/natsume_schwartz)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />](https://www.linkedin.com/in/brenda-natsum-9a40bb418)
-[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge" />](https://artstation.com/YOUR_LINK)
+[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge" />](https://brenda-ns.github.io/brendans/)
 <div align="center">
   <br>
   <i>"Living in the present, building the future."</i>
